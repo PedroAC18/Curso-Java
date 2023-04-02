@@ -28,6 +28,7 @@ public class Program {
         System.out.print("Digite salario base: ");
         double sal = sc.nextDouble();
 
+        //Worker Level e Department são objetos do Worker, por isso precisam ser instânciados no momento de criação do Worker
         //Enum precisa usar .valueOf por ser enum e Department usa o "criador" dele
         Worker w = new Worker(name,  WorkerLevel.valueOf(exp), sal, new Department(dep));
 
