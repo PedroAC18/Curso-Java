@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Ex01/Ex01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaDiamante/HerancaDiamante.iml" filepath="$PROJECT_DIR$/HerancaDiamante/HerancaDiamante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca_Diamante/Heranca_Diamante.iml" filepath="$PROJECT_DIR$/Heranca_Diamante/Heranca_Diamante.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Interfaces.iml" filepath="$PROJECT_DIR$/.idea/Interfaces.iml" />
     </modules>
   </component>
