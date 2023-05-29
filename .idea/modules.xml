@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso Java.iml" filepath="$PROJECT_DIR$/Curso Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioLista/DesafioLista.iml" filepath="$PROJECT_DIR$/DesafioLista/DesafioLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Enum/Ex01/Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Ex01/Ex011.iml" filepath="$PROJECT_DIR$/Interfaces/Ex01/Ex011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/Ex01/Ex012.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/Ex01/Ex012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Enum/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Ex02/Ex021.iml" filepath="$PROJECT_DIR$/Interfaces/Ex02/Ex021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herança e Polimorfismo/Ex02/Ex022.iml" filepath="$PROJECT_DIR$/Herança e Polimorfismo/Ex02/Ex022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Ex03/Ex03.iml" filepath="$PROJECT_DIR$/Enum/Ex03/Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaOO/Ex1/Ex1.iml" filepath="$PROJECT_DIR$/ListaOO/Ex1/Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaOO/Ex2/Ex2.iml" filepath="$PROJECT_DIR$/ListaOO/Ex2/Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaOO/Ex3/Ex3.iml" filepath="$PROJECT_DIR$/ListaOO/Ex3/Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExClasse/ExClasse.iml" filepath="$PROJECT_DIR$/ExClasse/ExClasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic, Set e Map/ExSet/ExSet.iml" filepath="$PROJECT_DIR$/Generic, Set e Map/ExSet/ExSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic, Set e Map/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic, Set e Map/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic, Set e Map/HashCode_Equals/HashCode_Equals.iml" filepath="$PROJECT_DIR$/Generic, Set e Map/HashCode_Equals/HashCode_Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/HerancaDiamante/HerancaDiamante.iml" filepath="$PROJECT_DIR$/Interfaces/HerancaDiamante/HerancaDiamante.iml" />
+    </modules>
+  </component>
+</project>
