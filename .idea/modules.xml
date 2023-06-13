@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Generic, Set e Map/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic, Set e Map/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic, Set e Map/HashCode_Equals/HashCode_Equals.iml" filepath="$PROJECT_DIR$/Generic, Set e Map/HashCode_Equals/HashCode_Equals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/HerancaDiamante/HerancaDiamante.iml" filepath="$PROJECT_DIR$/Interfaces/HerancaDiamante/HerancaDiamante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/jdbc01/jdbc01.iml" filepath="$PROJECT_DIR$/JDBC/jdbc01/jdbc01.iml" />
     </modules>
   </component>
 </project>
